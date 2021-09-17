@@ -1,0 +1,44 @@
+{
+    "BotSettings": {
+        "owner": "704751383961665587",
+        "prefix": ".",
+        "botStatus": "Aramıza HoşGeldin",
+        "botVoiceChannelID": "881414534672289833"
+    },
+    "Roles": {
+        "BoyRole1": "847918247529545728",
+        "BoyRole2": "887370099818897428",
+        "GirlRole1": "847918257562320896",
+        "GirlRole2": "887370110371762226",
+        "Unregister": "847917582828175360",
+        "Registerer": "872176319989944380",
+        "TagRole": "884330093453926420",
+        "Suspicious": "",
+        "Jail": ""
+    },
+        "Colors": {
+            "Red": "ff0000",
+            "Magenta": "660099",
+            "Black": "000000",
+            "Gold": "ffd700",
+            "Pink": "ffcbdb",
+            "Green": "66ff00",
+            "Yellow": "ffff00"
+    },
+        "ServerSettings": {
+            "ServerName": "Hyper Family",
+            "ServerID": "847911788452380672",
+            "Tag": "❆",
+            "UnTag": "❆"
+    },
+        "Channels": {
+            "RegisterChat": "847920467640844318",
+            "TagLog": "881413963533942846",
+            "Rules": "847939021287456780",
+            "GeneralChat": "852645790525554698"
+        },
+        "Welcome": {
+            "WelcomeChat": "847920467640844318",
+            "WelcomeName": "❆ İsim | Yaş"
+        }
+}
